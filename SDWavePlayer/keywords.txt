@@ -1,0 +1,6 @@
+SDWavePlayer	KEYWORD1
+begin	KEYWORD2
+play KEYWORD2
+stopPlayback	KEYWORD2
+readWavInfo	KEYWORD2
+
